@@ -22,7 +22,7 @@ My name is Bouzaiene Chamsddine and I'm a senior front developer/blockchaine Dev
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [chams.dev](https://chams.dev/) as well as on [Medium](https://medium.com/@bouzaiene.ch) and [DEV.to](https://dev.to/chamsddine).
+Apart from coding, i also maintain a blog - you can find my articles on my website at [chams.dev](https://chams.dev/) as well as on [Medium](https://medium.com/@bouzaiene.ch) and [DEV.to](https://dev.to/chamsddine).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
