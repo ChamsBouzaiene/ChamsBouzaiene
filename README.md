@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-bouzaiene.ch@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bouzaiene.ch@gmail.com
 )](mailto:bouzaiene.ch@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/chamsddine/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/chamsddine//)](https://www.linkedin.com/in/chamsddine//) [![Github Badge](https://img.shields.io/badge/-ChamsBouzaiene-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ChamsBouzaiene/)](https://www.github.com/ChamsBouzaiene/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/shemsddine-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/shemsddine/)](https://twitter.com/shemsddine/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://chams.dev/)](https://chams.dev/) <p align='left'> 
-  [![Portfolio Badge](https://img.shields.io/badge/Codepen-My%20pens-brightgreen&link=https://codepen.io/alchemist107)](https://codepen.io/alchemist107) <p align='left'> 
+  [![Portfolio Badge](https://img.shields.io/badge/Codepen-My%20pens-brightgreen](https://codepen.io/alchemist107) <p align='left'> 
 
 My name is Bouzaiene Chamsddine and I'm a senior front developer/blockchaine Developer. I'm from Tunisia, living in Ben Arous and currently working at ETT. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
