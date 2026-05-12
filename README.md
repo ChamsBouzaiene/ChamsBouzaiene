@@ -1,88 +1,44 @@
+# Hey, I'm Chams 👋
 
+**Building AI agents that ship.**
 
-<!--
-**ChamsBouzaiene/ChamsBouzaiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Hamburg, Germany. I build agent systems and the developer tooling that makes them practical. I post what I learn building them on X — [@shemsddine](https://x.com/shemsddine).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently building
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/ChamsBouzaiene)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Gmail Badge](https://img.shields.io/badge/-bouzaiene.ch@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bouzaiene.ch@gmail.com
-)](mailto:bouzaiene.ch@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/chamsddine/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/chamsddine//)](https://www.linkedin.com/in/chamsddine//) [![Github Badge](https://img.shields.io/badge/-ChamsBouzaiene-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ChamsBouzaiene/)](https://www.github.com/ChamsBouzaiene/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/shemsddine-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/shemsddine/)](https://twitter.com/shemsddine/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://chams.dev/)](https://chams.dev/)
-  [![CodePen Badge](https://img.shields.io/badge/Codepen-My%20pens-brightgreen)](https://codepen.io/alchemist107)
-<p align='left'> 
+**[dodo](https://github.com/ChamsBouzaiene/dodo)** — a coding agent in Go. CLI-first, no GUI baggage.
 
-My name is Bouzaiene Chamsddine and I'm a senior front developer/blockchaine Developer. I'm from Tunisia, living in Ben Arous and currently working at ETT. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+**[CtxAnt](https://github.com/ChamsBouzaiene/CtxAnt)** — text any agent on Telegram, it opens a browser and goes. macOS + Chrome extension + Python. → [ctxant.com](https://ctxant.com)
 
-## &#x270d; Blog & Writing
+**[QA-agent](https://github.com/ChamsBouzaiene/QA-agent)** — an AI agent that suggests QA operations for developers.
 
-Apart from coding, i also maintain a blog - you can find my articles on my website at [chams.dev](https://chams.dev/) as well as on [Medium](https://medium.com/@bouzaiene.ch) and [DEV.to](https://dev.to/chamsddine).
+**[AIinfluencerNet](https://github.com/ChamsBouzaiene/AIinfluencerNet)** — a platform to build a network of AI influencers.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/node/v/lts?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+A few more cooking in private: a local code-intelligence CLI with hybrid semantic search, an agent orchestration layer, and an AI media playground.
 
+---
 
-## &#x1f4c8; GitHub Stats
+## 🧰 Stack
 
-<a href="https://github.com/ChamsBouzaiene/ChamsBouzaiene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamsBouzaiene&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ChamsBouzaiene/ChamsBouzaiene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamsBouzaiene&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ChamsBouzaiene GitHub Stats" />
-</a>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<a href="https://github.com/ChamsBouzaiene/Poa-Blockchain-Docker-Compose-env">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamsBouzaiene&repo=Poa-Blockchain-Docker-Compose-env&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+LLM function calling · MCP · browser automation · agent loops · prompt orchestration
 
+---
 
-<a href="https://github.com/ChamsBouzaiene/san-kou7.JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamsBouzaiene&repo=san-kou7.JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-<!-- icons with padding -->
+## 📫 Connect
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[![X Badge](https://img.shields.io/badge/X-@shemsddine-000000?style=flat&logo=x&logoColor=white)](https://x.com/shemsddine)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-chamsddine-0072B1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamsddine/)
+[![Email Badge](https://img.shields.io/badge/Gmail-bouzaiene.ch@gmail.com-C14438?style=flat&logo=gmail&logoColor=white)](mailto:bouzaiene.ch@gmail.com)
 
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/shemsddine
-[2]: https://github.com/ChamsBouzaiene
-[3]: https://www.linkedin.com/in/chamsddine/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+DMs open on X if you're building agents — always up for a good agent conversation.
