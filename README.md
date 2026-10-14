@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://x.com/ChamsTech"><img src="https://img.shields.io/badge/X-@ChamsTech-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X: @ChamsTech" /></a>
+  <a href="https://bouzaiene.org"><img src="https://img.shields.io/badge/Web-bouzaiene.org-8250df?style=for-the-badge" alt="Website: bouzaiene.org" /></a>
   <a href="https://www.linkedin.com/in/chamsddine/"><img src="https://img.shields.io/badge/LinkedIn-chamsddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bouzaiene.ch@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ctxant.com"><img src="https://img.shields.io/badge/ctxant.com-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ctxant.com" /></a>
