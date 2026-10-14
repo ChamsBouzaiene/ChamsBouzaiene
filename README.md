@@ -1,44 +1,89 @@
-# Hey, I'm Chams 👋
+<img src="./assets/banner.svg" width="100%" alt="Chams Bouzaiene: I build AI agents, and point them at real code to find real bugs." />
 
-**Building AI agents that ship.**
+<p align="center">
+  <a href="https://x.com/ChamsTech"><img src="https://img.shields.io/badge/X-@ChamsTech-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X: @ChamsTech" /></a>
+  <a href="https://www.linkedin.com/in/chamsddine/"><img src="https://img.shields.io/badge/LinkedIn-chamsddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bouzaiene.ch@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ctxant.com"><img src="https://img.shields.io/badge/ctxant.com-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ctxant.com" /></a>
+</p>
 
-Software engineer based in Hamburg, Germany. I build agent systems and the developer tooling that makes them practical. I post what I learn building them on X — [@shemsddine](https://x.com/shemsddine).
+I'm a software engineer in Hamburg, building AI agents: a [coding agent in Go](https://github.com/ChamsBouzaiene/dodo) and a [browser agent you text from Telegram](https://github.com/ChamsBouzaiene/CtxAnt). Lately I've been pointing agents at real codebases to find real vulnerabilities.
 
----
+I like agents that do actual work: tight tool loops, sandboxed execution, honest measurement, and results anyone can reproduce. I post what I learn on X at **[@ChamsTech](https://x.com/ChamsTech)**.
 
-## 🛠️ Currently building
+## What I'm building
 
-**[dodo](https://github.com/ChamsBouzaiene/dodo)** — a coding agent in Go. CLI-first, no GUI baggage.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[CtxAnt](https://github.com/ChamsBouzaiene/CtxAnt)** — text any agent on Telegram, it opens a browser and goes. macOS + Chrome extension + Python. → [ctxant.com](https://ctxant.com)
+### [dodo](https://github.com/ChamsBouzaiene/dodo)
 
-**[QA-agent](https://github.com/ChamsBouzaiene/QA-agent)** — an AI agent that suggests QA operations for developers.
+Open-source AI coding agent written in Go. Commands run in a Docker sandbox, it works with any LLM provider, and there's no LangChain or agent framework underneath, just its own engine.
 
-**[AIinfluencerNet](https://github.com/ChamsBouzaiene/AIinfluencerNet)** — a platform to build a network of AI influencers.
+<img src="https://img.shields.io/github/stars/ChamsBouzaiene/dodo?style=flat-square&logo=github&label=stars&color=2ea043&labelColor=30363d" alt="stars" /> `Go` `React Ink` `Docker`
 
-A few more cooking in private: a local code-intelligence CLI with hybrid semantic search, an agent orchestration layer, and an AI media playground.
+</td>
+<td width="50%" valign="top">
 
----
+### [CtxAnt](https://github.com/ChamsBouzaiene/CtxAnt)
 
-## 🧰 Stack
+Text any agent on Telegram and it drives the Chrome you're already signed into. Use 12 starter agents or build your own in 30 seconds. Everything runs on your Mac. [ctxant.com →](https://ctxant.com)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<img src="https://img.shields.io/github/stars/ChamsBouzaiene/CtxAnt?style=flat-square&logo=github&label=stars&color=2ea043&labelColor=30363d" alt="stars" /> `Python` `macOS` `Chrome extension`
 
-LLM function calling · MCP · browser automation · agent loops · prompt orchestration
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### [Rediscovering CVE-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)
 
-## 📫 Connect
+An LLM audit of nginx's rewrite module rediscovers a heap buffer overflow, confirmed with an AddressSanitizer PoC. Prompts, PoC and methodology are all included, along with an honest note on what the AI did and didn't do.
 
-[![X Badge](https://img.shields.io/badge/X-@shemsddine-000000?style=flat&logo=x&logoColor=white)](https://x.com/shemsddine)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-chamsddine-0072B1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamsddine/)
-[![Email Badge](https://img.shields.io/badge/Gmail-bouzaiene.ch@gmail.com-C14438?style=flat&logo=gmail&logoColor=white)](mailto:bouzaiene.ch@gmail.com)
+`C` `ASan` `LLM auditing`
 
-DMs open on X if you're building agents — always up for a good agent conversation.
+</td>
+<td width="50%" valign="top">
+
+### In the lab 🔒
+
+Private for now, public when they're ready:
+
+- a measured agent fleet for vulnerability discovery, with a ledger for every stage
+- a local code-intelligence CLI with hybrid semantic search
+
+`Go` `Python` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+## Toolbox
+
+<img src="https://skillicons.dev/icons?i=go,py,ts,nodejs,react,nextjs,docker,kubernetes,postgres,linux,bash,git&perline=12" alt="Go, Python, TypeScript, Node.js, React, Next.js, Docker, Kubernetes, PostgreSQL, Linux, Bash, Git" />
+
+Agent loops · tool calling · MCP · browser automation · sandboxed execution · LLM-assisted code auditing
+
+<details>
+<summary><b>Earlier work</b>: web, blockchain and tooling from before the agent era</summary>
+<br>
+
+| Project | What it is |
+| --- | --- |
+| [react-component-lib-boilerplate](https://github.com/ChamsBouzaiene/react-component-lib-boilerplate) | Starter kit for shipping a React component library |
+| [Poa-Blockchain-Docker-Compose-env](https://github.com/ChamsBouzaiene/Poa-Blockchain-Docker-Compose-env) | Spin up a proof-of-authority Ethereum network with Docker Compose |
+| [ethereum-bridge](https://github.com/ChamsBouzaiene/ethereum-bridge) | Link private and public chains through events and a message queue |
+| [SVG-Editor](https://github.com/ChamsBouzaiene/SVG-Editor) | SVG editor in vanilla JavaScript |
+| [D3Export](https://github.com/ChamsBouzaiene/D3Export) | Export D3 charts and SVGs to PDF and images |
+| [san-kou7.JS](https://github.com/ChamsBouzaiene/san-kou7.JS) | A platformer game made in Tunisia, in pure vanilla JS |
+| [QA-agent](https://github.com/ChamsBouzaiene/QA-agent) | AI agent that suggests QA steps for developers |
+| [AIinfluencerNet](https://github.com/ChamsBouzaiene/AIinfluencerNet) | Platform for running a network of AI influencers |
+
+</details>
+
+<br>
+
+<p align="center">
+  <sub>Building agents too? My DMs on <a href="https://x.com/ChamsTech">X</a> are open.</sub>
+</p>
